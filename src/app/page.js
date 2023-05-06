@@ -6,7 +6,9 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
       <h2>Bismillah çok şükür</h2>
-      </div>pm2 start depoapisitesi çok şükür
+          
+          <h2> meryemmm </h2>
+      </div>
     </main>
   )
 }
