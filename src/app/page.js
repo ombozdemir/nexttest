@@ -7,8 +7,7 @@ export default function Home() {
       <div className={styles.description}>
       <h2>Bismillah çok şükür</h2>
           
-          <h2> meryemmm 222 444
-          4444</h2>
+          <h2>  oldu</h2>
       </div>
     </main>
   )
